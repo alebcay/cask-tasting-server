@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 #FILES=/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/*.rb
 f=$1
 echo -n "$(basename ${f%.*}): "
