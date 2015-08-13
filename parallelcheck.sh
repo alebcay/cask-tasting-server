@@ -13,7 +13,7 @@ fi
 if [[ "$SHA_ALG" != "NONE" ]]
   then
   URL=$(brew cask _stanza url $f)
-  ssh -i ~/.ssh/pi_rsa -o ConnectTimeout=10 cask@192.168.1.12 bash -x ./cask-tasting/cask-tasting-slave.sh "$URL" "$EXPECTED_SHA"
+  ssh -i ~/.ssh/pi_rsa -o ConnectTimeout=10 cask@192.168.1.12 bash -x /home/cask/cask-tasting/cask-tasting-slave.sh "$URL" "$EXPECTED_SHA"
   RETURNCODE=$?
   if [[ $RETURNCODE == 0 ]]
     then
