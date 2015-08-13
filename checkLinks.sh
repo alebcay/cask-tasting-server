@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 echo "Preparing for check..."
-cd ~/cask-tasting
 git checkout master
 brew sync
 [ -e "CaskTasting.part" ] && rm "CaskTasting.part"
@@ -27,8 +26,6 @@ mv CaskPassed.part CaskPassed.txt
 mv CaskSumError.part CaskSumError.txt
 mv CaskNoSum.part CaskNoSum.txt
 
-rm -r ppss_dir
-ppss -d /Library/Caches/Homebrew -c 'rm '
 rm -r ppss_dir
 echo "Sending data to master..."
 git add .
