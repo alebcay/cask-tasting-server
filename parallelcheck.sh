@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #FILES=/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/*.rb
-set -x
 f=$1
 echo -n "$(basename ${f%.*}): "
 if [[ $(brew cask _stanza sha256 $f) == ":no_check" ]]
@@ -14,7 +13,7 @@ fi
 if [[ "$SHA_ALG" != "NONE" ]]
   then
   URL=$(brew cask _stanza url $f)
-  ssh -i ~/.ssh/pi_rsa -o ConnectTimeout=10 cask@192.168.1.12 cask-tasting/cask-tasting-slave.sh "$URL" "$EXPECTED_SHA"
+  ssh -i ~/.ssh/pi_rsa -o ConnectTimeout=10 cask@192.168.1.12 bash -x ./cask-tasting/cask-tasting-slave.sh "$URL" "$EXPECTED_SHA"
   RETURNCODE=$?
   if [[ $RETURNCODE == 0 ]]
     then
