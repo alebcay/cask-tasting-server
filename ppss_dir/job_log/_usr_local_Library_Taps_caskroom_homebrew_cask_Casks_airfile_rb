@@ -1,7 +1,0 @@
-===== PPSS Item Log File =====
-Host:		calebxu.tk
-Process:	14373
-Item:		/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/airfile.rb
-Start date:	Aug 13 13:34:57
-
-airfile: zsh:1: no such file or directory: cask-tasting/cask-tasting-slave.sh
