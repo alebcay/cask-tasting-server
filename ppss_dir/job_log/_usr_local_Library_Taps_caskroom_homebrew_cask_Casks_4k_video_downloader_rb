@@ -1,0 +1,12 @@
+===== PPSS Item Log File =====
+Host:		calebxu.tk
+Process:	14373
+Item:		/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/4k-video-downloader.rb
+Start date:	Aug 13 13:34:30
+
+4k-video-downloader: zsh:1: no such file or directory: cask-tasting/cask-tasting-slave.sh
+[1;31mSHA-256 mismatch![22;0m
+
+Status:		FAILURE
+Total processing time (hh:mm:ss): 00:00:04
+

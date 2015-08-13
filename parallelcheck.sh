@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #FILES=/usr/local/Library/Taps/caskroom/homebrew-cask/Casks/*.rb
+set -x
 f=$1
 echo -n "$(basename ${f%.*}): "
 if [[ $(brew cask _stanza sha256 $f) == ":no_check" ]]

@@ -1,0 +1,156 @@
+Aug 13 13:34:25: DSPLY 
+Aug 13 13:34:25: DSPLY =========================================================
+Aug 13 13:34:25: DSPLY                        |P|P|S|S|                         
+Aug 13 13:34:25: DSPLY Distributed Parallel Processing Shell Script vers. 2.97
+Aug 13 13:34:25: DSPLY =========================================================
+Aug 13 13:34:25: DSPLY Hostname:		calebxu.tk
+Aug 13 13:34:25: DSPLY ---------------------------------------------------------
+Aug 13 13:34:26: DSPLY CPU:  Intel Core i5  3.40 GHz
+Aug 13 13:34:26: DSPLY Found 4 logic processors.
+Aug 13 13:34:26: DSPLY Starting 4 parallel workers.
+Aug 13 13:34:26: DSPLY ---------------------------------------------------------
+Aug 13 13:34:26: INFO  Current active workers is 4
+Aug 13 13:34:26: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/010-editor.rb
+Aug 13 13:34:26: INFO  Current active workers is 4
+Aug 13 13:34:26: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/0ad.rb
+Aug 13 13:34:26: INFO  Current active workers is 4
+Aug 13 13:34:26: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/0xdbe-eap.rb
+Aug 13 13:34:26: INFO  Current active workers is 4
+Aug 13 13:34:26: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/0xed.rb
+Aug 13 13:34:26: INFO  Current active workers is 4
+Aug 13 13:34:27: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/115browser.rb
+Aug 13 13:34:27: INFO  Current active workers is 4
+Aug 13 13:34:27: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/1password.rb
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:30: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/33-rpm.rb
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:30: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/4k-video-downloader.rb
+Aug 13 13:34:30: INFO  Current active workers is 4
+Aug 13 13:34:31: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/4k-youtube-to-mp3.rb
+Aug 13 13:34:31: DSPLY ETA: 
+Aug 13 13:34:31: INFO  Current active workers is 4
+Aug 13 13:34:31: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/4peaks.rb
+Aug 13 13:34:31: INFO  Current active workers is 4
+Aug 13 13:34:31: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/5iler.rb
+Aug 13 13:34:31: INFO  Current active workers is 4
+Aug 13 13:34:32: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/5kplayer.rb
+Aug 13 13:34:32: INFO  Current active workers is 4
+Aug 13 13:34:32: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/8tracksradiohelper.rb
+Aug 13 13:34:33: INFO  Current active workers is 4
+Aug 13 13:34:33: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/a-better-finder-attributes.rb
+Aug 13 13:34:33: DSPLY ETA: 
+Aug 13 13:34:33: INFO  Current active workers is 4
+Aug 13 13:34:33: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/a-better-finder-rename.rb
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:34: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/a-slower-speed-of-light.rb
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:34: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/abgx360.rb
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:34: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/ableton-live-suite.rb
+Aug 13 13:34:34: INFO  Current active workers is 4
+Aug 13 13:34:35: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/ableton-live.rb
+Aug 13 13:34:35: DSPLY ETA: 
+Aug 13 13:34:37: INFO  Current active workers is 4
+Aug 13 13:34:37: DSPLY ETA: 
+Aug 13 13:34:37: INFO  Current active workers is 4
+Aug 13 13:34:37: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/abscissa.rb
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:39: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/abyss.rb
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:39: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/accessmenubarapps.rb
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:39: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/acorn.rb
+Aug 13 13:34:39: INFO  Current active workers is 4
+Aug 13 13:34:40: INFO  Current active workers is 4
+Aug 13 13:34:40: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/acquia-dev-desktop.rb
+Aug 13 13:34:40: DSPLY ETA: 
+Aug 13 13:34:40: INFO  Current active workers is 4
+Aug 13 13:34:40: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/acslogo.rb
+Aug 13 13:34:42: INFO  Current active workers is 4
+Aug 13 13:34:42: INFO  Current active workers is 4
+Aug 13 13:34:42: INFO  Current active workers is 4
+Aug 13 13:34:42: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/actions-server.rb
+Aug 13 13:34:42: INFO  Current active workers is 4
+Aug 13 13:34:43: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/activity-audit.rb
+Aug 13 13:34:43: INFO  Current active workers is 4
+Aug 13 13:34:43: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/actotracker.rb
+Aug 13 13:34:43: INFO  Current active workers is 4
+Aug 13 13:34:43: INFO  Current active workers is 4
+Aug 13 13:34:44: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/actprinter.rb
+Aug 13 13:34:44: DSPLY ETA: 
+Aug 13 13:34:44: INFO  Current active workers is 4
+Aug 13 13:34:44: DSPLY ETA: 
+Aug 13 13:34:44: INFO  Current active workers is 4
+Aug 13 13:34:44: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/actual-odbc-pack.rb
+Aug 13 13:34:44: INFO  Current active workers is 4
+Aug 13 13:34:44: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adafruit-arduino.rb
+Aug 13 13:34:44: INFO  Current active workers is 4
+Aug 13 13:34:44: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adapter.rb
+Aug 13 13:34:45: INFO  Current active workers is 4
+Aug 13 13:34:45: INFO  Current active workers is 4
+Aug 13 13:34:46: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adium.rb
+Aug 13 13:34:47: INFO  Current active workers is 4
+Aug 13 13:34:47: INFO  Current active workers is 4
+Aug 13 13:34:47: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-air.rb
+Aug 13 13:34:47: DSPLY ETA: 
+Aug 13 13:34:48: INFO  Current active workers is 4
+Aug 13 13:34:48: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-arh.rb
+Aug 13 13:34:48: INFO  Current active workers is 4
+Aug 13 13:34:48: INFO  Current active workers is 4
+Aug 13 13:34:48: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-creative-cloud.rb
+Aug 13 13:34:48: INFO  Current active workers is 4
+Aug 13 13:34:48: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-digital-editions.rb
+Aug 13 13:34:48: INFO  Current active workers is 4
+Aug 13 13:34:48: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-dng-converter.rb
+Aug 13 13:34:49: INFO  Current active workers is 4
+Aug 13 13:34:49: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-photoshop-lightroom.rb
+Aug 13 13:34:49: DSPLY ETA: 
+Aug 13 13:34:49: INFO  Current active workers is 4
+Aug 13 13:34:49: DSPLY ETA: 
+Aug 13 13:34:49: INFO  Current active workers is 4
+Aug 13 13:34:49: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adobe-reader.rb
+Aug 13 13:34:49: INFO  Current active workers is 4
+Aug 13 13:34:50: INFO  Current active workers is 4
+Aug 13 13:34:50: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adventure.rb
+Aug 13 13:34:50: INFO  Current active workers is 4
+Aug 13 13:34:50: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/adware-removal-tool.rb
+Aug 13 13:34:51: INFO  Current active workers is 4
+Aug 13 13:34:51: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/aegisub.rb
+Aug 13 13:34:52: INFO  Current active workers is 4
+Aug 13 13:34:52: INFO  Current active workers is 4
+Aug 13 13:34:52: INFO  Current active workers is 4
+Aug 13 13:34:52: INFO  Current active workers is 4
+Aug 13 13:34:52: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/aether.rb
+Aug 13 13:34:52: DSPLY ETA: 
+Aug 13 13:34:52: INFO  Current active workers is 4
+Aug 13 13:34:52: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/affinic-debugger-gui.rb
+Aug 13 13:34:52: INFO  Current active workers is 4
+Aug 13 13:34:52: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/aimersoft-video-converter-ultimate.rb
+Aug 13 13:34:53: INFO  Current active workers is 4
+Aug 13 13:34:53: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/air-connect.rb
+Aug 13 13:34:53: INFO  Current active workers is 4
+Aug 13 13:34:53: INFO  Current active workers is 4
+Aug 13 13:34:53: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/air-video-server-hd.rb
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/airdisplay.rb
+Aug 13 13:34:56: DSPLY ETA: 
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/airdroid.rb
+Aug 13 13:34:56: INFO  Current active workers is 4
+Aug 13 13:34:56: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/airfile.rb
+Aug 13 13:34:57: INFO  Current active workers is 4
+Aug 13 13:34:57: INFO  Now processing /usr/local/Library/Taps/caskroom/homebrew-cask/Casks/airflick.rb
